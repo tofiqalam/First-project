@@ -1,0 +1,38 @@
+h2{
+    font-family: Calibri; 
+    font-size: 25pt;         
+    font-style: normal; 
+    font-weight: bold; 
+    color:SlateBlue;
+    text-align: center; 
+    text-decoration: underline
+  }
+  
+  table{
+    font-family: Calibri; 
+    color:white; 
+    font-size: 11pt; 
+    font-style: normal;
+    font-weight: bold;
+    text-align:; 
+    background-color: SlateBlue; 
+    border-collapse: collapse; }
+    }
+  table.inner{
+    border: 0px
+  }
+  h3{
+    line-height: 0.2em;  
+    color: blueviolet;
+      font-size: 35px;
+  }
+  h1{
+    line-height: 0.2em;  
+    color: green;
+      font-size: 45px;
+  }
+  h5{
+    line-height: 0.1em;  
+    font-size:  45px;
+      color: green;
+  }
